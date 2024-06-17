@@ -10,9 +10,9 @@ FROM myoung34/github-runner:latest
 #########################################
 # Variables #
 #########################################
-ARG orgname="YOUR ORG"
+ARG orgname="tomak"
 # change this to repo name
-ARG reponame="YOUR REPO"
+ARG reponame="actionsTest"
 
 #########################################
 # Label the instance and set maintainer #
